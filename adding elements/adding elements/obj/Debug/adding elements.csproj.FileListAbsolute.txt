@@ -1,0 +1,10 @@
+C:\Users\SSoni\source\repos\adding elements\adding elements\bin\Debug\adding elements.exe.config
+C:\Users\SSoni\source\repos\adding elements\adding elements\bin\Debug\adding elements.exe
+C:\Users\SSoni\source\repos\adding elements\adding elements\bin\Debug\adding elements.pdb
+C:\Users\SSoni\source\repos\adding elements\adding elements\obj\Debug\adding elements.csproj.AssemblyReference.cache
+C:\Users\SSoni\source\repos\adding elements\adding elements\obj\Debug\adding_elements.Form1.resources
+C:\Users\SSoni\source\repos\adding elements\adding elements\obj\Debug\adding_elements.Properties.Resources.resources
+C:\Users\SSoni\source\repos\adding elements\adding elements\obj\Debug\adding elements.csproj.GenerateResource.cache
+C:\Users\SSoni\source\repos\adding elements\adding elements\obj\Debug\adding elements.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\source\repos\adding elements\adding elements\obj\Debug\adding elements.exe
+C:\Users\SSoni\source\repos\adding elements\adding elements\obj\Debug\adding elements.pdb

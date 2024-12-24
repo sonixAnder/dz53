@@ -1,0 +1,10 @@
+C:\Users\SSoni\source\repos\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe.config
+C:\Users\SSoni\source\repos\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe
+C:\Users\SSoni\source\repos\FileExplorer\FileExplorer\bin\Debug\FileExplorer.pdb
+C:\Users\SSoni\source\repos\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.AssemblyReference.cache
+C:\Users\SSoni\source\repos\FileExplorer\FileExplorer\obj\Debug\FileExplorer.Form1.resources
+C:\Users\SSoni\source\repos\FileExplorer\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+C:\Users\SSoni\source\repos\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.cache
+C:\Users\SSoni\source\repos\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\source\repos\FileExplorer\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Users\SSoni\source\repos\FileExplorer\FileExplorer\obj\Debug\FileExplorer.pdb
